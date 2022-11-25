@@ -3,7 +3,7 @@
 ## Description
 ---
 Script builded to crawl into the IMDB website and scrape some of the information about the Best Movies of all times, according to IMDB.
-This was made out as a project to train and build a dataset from scratch, to allow further analysis.
+This was made out as a project to train and build a dataset from scratch, to allow future analysis.
 
 ### Access
 https://github.com/BeatrizFerLim/Data-Science-Projects/tree/main/IMDB-scraping
